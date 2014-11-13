@@ -1,0 +1,3 @@
+source env/bin/activate
+# wget http://...
+python sitter.py > sittings.json

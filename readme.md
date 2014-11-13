@@ -14,6 +14,7 @@ To run, `./run.sh` should do it.
 
 * Tests
 * Load into `dat`
+* Load to S3 or github pages or something else
 
 ## License
 

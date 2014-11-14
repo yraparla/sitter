@@ -204,7 +204,11 @@
     "panel": "Panel L: Thursday, November 06, 2014, 10:00 A.M., \u00a0 Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "PROST", 
+      "MAYER", 
+      "LOURIE"
+    ], 
     "cases": [
       "14-5048", 
       "14-1281", 
@@ -216,7 +220,11 @@
     "panel": "Panel M: Friday, November 07, 2014, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "REYNA", 
+      "LINN", 
+      "WALLACH"
+    ], 
     "cases": [
       "14-1225", 
       "14-1184", 
@@ -227,7 +235,11 @@
     "panel": "Panel N: Friday, November 07, 2014, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "TARANTO", 
+      "BRYSON", 
+      "HUGHES"
+    ], 
     "cases": [
       "14-1331", 
       "14-1414", 
@@ -237,7 +249,11 @@
     "panel": "Panel O: Friday, November 07, 2014, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "O'MALLEY", 
+      "BRYSON", 
+      "TARANTO"
+    ], 
     "cases": [
       "14-7089"
     ], 

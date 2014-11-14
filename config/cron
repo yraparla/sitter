@@ -1,1 +1,2 @@
-0 * * * * bash /path/to/run.sh
+0 * * * * cd /path/to/sitter && bash run.sh >> log.txt 2>&1
+

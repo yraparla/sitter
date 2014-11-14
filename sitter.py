@@ -19,7 +19,7 @@ panel = []
 i = 0
 
 # ToDo: Add ignore case
-pattern = "(JUDGES: )([\w\']+)(, )([\w\']+)(, \&? ?)([\w\']+)"
+pattern = "([A-Z]+: )([\w\']+)(, )([\w\']+)(, \&? ?)([\w\']+)"
 
 # Loop the the cells in the table
 for cell in elements:
@@ -31,8 +31,8 @@ for cell in elements:
 	else:
 
 		# If it's not a panel cell, check to see if it's a judge cell, and if it is add to the "judges" array
-		if len(panel) >= 1 and re.match(pattern, t):	# Make sure it's not front matter 
-			j = re.match(pattern, t)
+		if len(panel) >= 1 and re.match(pattern, t, flags=re.IGNORECASE):	# Make sure it's not front matter 
+			j = re.match(pattern, t,flags=re.IGNORECASE)
 			panel[len(panel) - 1]["judges"] = [j.group(2), j.group(4), j.group(6)]	
 
 		# If it's not a panel or judges cell, check to see if it's a case number cell, and if it is add to the "cases" array

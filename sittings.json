@@ -322,15 +322,9 @@
   {
     "judges": [], 
     "cases": [
-      "15-1139"
-    ], 
-    "panel": "Panel N: Friday, January 09, 2015, 10:00 A.M., Courtroom 203"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
+      "15-1139", 
       "12-1170"
     ], 
-    "panel": "Panel O: Wednesday, January 14, 2015, 10:00 A.M., Courtroom 201"
+    "panel": "Panel N: Friday, January 09, 2015, 10:00 A.M., Courtroom 203"
   }
 ]

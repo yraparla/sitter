@@ -1,6 +1,10 @@
 [
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Moore", 
+      "Taranto"
+    ], 
     "cases": [
       "14-1227", 
       "14-1364", 
@@ -10,7 +14,11 @@
     "panel": "Panel A: Monday, December 01, 2014, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "O'Malley", 
+      "Clevenger", 
+      "Bryson"
+    ], 
     "cases": [
       "14-7044", 
       "14-1422", 
@@ -21,7 +29,11 @@
     "panel": "Panel B: Monday, December 01, 2014, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Dyk", 
+      "Reyna"
+    ], 
     "cases": [
       "13-7146", 
       "13-1576", 

@@ -44,7 +44,11 @@
     "panel": "Panel C: Monday, December 01, 2014, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "Reyna", 
+      "Hughes"
+    ], 
     "cases": [
       "14-1456", 
       "14-7066", 
@@ -55,7 +59,11 @@
     "panel": "Panel D: Tuesday, December 02, 2014, 10:00 A.M., \u00a0 Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Bryson", 
+      "O'Malley"
+    ], 
     "cases": [
       "14-1347", 
       "14-1072", 
@@ -72,7 +80,11 @@
     "panel": "Panel F+: Tuesday, January 06, 2015, 10:00A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Plager", 
+      "Wallach"
+    ], 
     "cases": [
       "14-1689", 
       "14-7054", 

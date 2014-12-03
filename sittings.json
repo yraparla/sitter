@@ -1,5 +1,220 @@
 [
   {
+    "judges": [
+      "Newman", 
+      "Moore", 
+      "Taranto"
+    ], 
+    "cases": [
+      "14-1227", 
+      "14-1364", 
+      "14-5090", 
+      "14-3169"
+    ], 
+    "panel": "Panel A: Monday, December 01, 2014, 10:00 A.M., Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "O'Malley", 
+      "Clevenger", 
+      "Bryson"
+    ], 
+    "cases": [
+      "14-7044", 
+      "14-1422", 
+      "14-1221", 
+      "14-1363", 
+      "14-3131"
+    ], 
+    "panel": "Panel B: Monday, December 01, 2014, 10:00 A.M., Courtroom 402"
+  }, 
+  {
+    "judges": [
+      "Lourie", 
+      "Dyk", 
+      "Reyna"
+    ], 
+    "cases": [
+      "13-7146", 
+      "13-1576", 
+      "14-1352", 
+      "14-3071", 
+      "14-3096"
+    ], 
+    "panel": "Panel C: Monday, December 01, 2014, 10:00 A.M., Courtroom 203"
+  }, 
+  {
+    "judges": [
+      "Dyk", 
+      "Reyna", 
+      "Hughes"
+    ], 
+    "cases": [
+      "14-1456", 
+      "14-7066", 
+      "14-1230", 
+      "14-1193", 
+      "14-3167"
+    ], 
+    "panel": "Panel D: Tuesday, December 02, 2014, 10:00 A.M., \u00a0 Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "Newman", 
+      "Bryson", 
+      "O'Malley"
+    ], 
+    "cases": [
+      "14-1347", 
+      "14-1072", 
+      "14-1288", 
+      "14-3148"
+    ], 
+    "panel": "Panel E: Tuesday, December 02, 2014, 10:00 A.M., \u00a0 Courtroom 402"
+  }, 
+  {
+    "judges": [
+      "Prost", 
+      "Plager", 
+      "Wallach"
+    ], 
+    "cases": [
+      "14-1689", 
+      "14-7054", 
+      "14-1386", 
+      "14-1007", 
+      "14-3157"
+    ], 
+    "panel": "Panel F: Tuesday, December 02, 2014, 10:00 A.M., \u00a0 Courtroom 203"
+  }, 
+  {
+    "judges": [
+      "Dyk", 
+      "O'Malley", 
+      "Wallach"
+    ], 
+    "cases": [
+      "14-1327", 
+      "14-1302", 
+      "14-3164"
+    ], 
+    "panel": "Panel G: Wednesday, December 03, 2014, 10:00 A.M., \u00a0 Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "Lourie", 
+      "Moore", 
+      "Reyna"
+    ], 
+    "cases": [
+      "14-1447", 
+      "14-1451", 
+      "14-1264", 
+      "14-1396", 
+      "14-3017"
+    ], 
+    "panel": "Panel H: Wednesday, December 03, 2014, 10:00 A.M., \u00a0 Courtroom 402"
+  }, 
+  {
+    "judges": [
+      "Taranto", 
+      "Schall", 
+      "Chen"
+    ], 
+    "cases": [
+      "14-5043", 
+      "13-5122", 
+      "14-1110", 
+      "14-5136"
+    ], 
+    "panel": "Panel I: Wednesday, December 03, 2014, 10:00 A.M., \u00a0 Courtroom 203"
+  }, 
+  {
+    "judges": [
+      "Newman", 
+      "Plager", 
+      "Hughes"
+    ], 
+    "cases": [
+      "14-1145", 
+      "14-1194"
+    ], 
+    "panel": "Panel P: Wednesday, December 03, 2014, 2:00 P.M., \u00a0 Courtroom 201"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
+      "14-5037", 
+      "14-1151", 
+      "14-7072", 
+      "14-1335", 
+      "14-7120"
+    ], 
+    "panel": "Panel J: Thursday, December 04, 2014, 10:00 A.M., \u00a0 Courtroom 201"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
+      "14-5020", 
+      "14-1412", 
+      "14-1280", 
+      "14-5057", 
+      "14-7123"
+    ], 
+    "panel": "Panel K: Thursday, December 04, 2014, 10:00 A.M., \u00a0 Courtroom 402"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
+      "14-5073", 
+      "14-1241", 
+      "14-1204", 
+      "14-1382", 
+      "14-7114"
+    ], 
+    "panel": "Panel L: Thursday, December 04, 2014, 10:00 A.M., \u00a0 Courtroom 203"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
+      "14-5062", 
+      "14-5078", 
+      "14-1017", 
+      "14-1404", 
+      "14-3156", 
+      "14-7092"
+    ], 
+    "panel": "Panel M: Friday, December 05, 2014, 10:00 A.M., Courtroom 201"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
+      "14-1329"
+    ], 
+    "panel": "Panel N+: Friday, December 05, 2014, 10:00 A.M., \u00a0 Courtroom 402"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
+      "14-1390", 
+      "14-3162", 
+      "14-7067"
+    ], 
+    "panel": "Panel N: Friday, December 05, 2014, 10:00 A.M., Courtroom 402"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
+      "14-5018", 
+      "14-1384", 
+      "14-1219", 
+      "14-1269", 
+      "14-3155", 
+      "14-7104"
+    ], 
+    "panel": "Panel O: Friday, December 05, 2014, 10:00 A.M., Courtroom 203"
+  }, 
+  {
     "judges": [], 
     "cases": [
       "14-1691", 

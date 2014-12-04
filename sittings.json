@@ -142,7 +142,11 @@
     "panel": "Panel P: Wednesday, December 03, 2014, 2:00 P.M., \u00a0 Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "O'Malley", 
+      "Chen"
+    ], 
     "cases": [
       "14-5037", 
       "14-1151", 
@@ -164,7 +168,11 @@
     "panel": "Panel K: Thursday, December 04, 2014, 10:00 A.M., \u00a0 Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "Wallach", 
+      "Hughes"
+    ], 
     "cases": [
       "14-5073", 
       "14-1241", 

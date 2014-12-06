@@ -19,7 +19,7 @@ panel = []
 i = 0
 
 # ToDo: Add ignore case
-pattern = "([A-Z]+: )([\w\']+)(, )([\w\']+)(,? \&? ?)([\w\']+)"
+pattern = "([A-Z]+:\s)([\w\']+)(,\s)([\w\']+)(,?\s\&?\s?)([\w\']+)"
 
 # Loop the the cells in the table
 for cell in elements:

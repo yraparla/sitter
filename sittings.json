@@ -45,7 +45,11 @@
     "panel": "Panel C: Monday, January 05, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Moore", 
+      "Hughes"
+    ], 
     "cases": [
       "14-7046", 
       "14-1267", 
@@ -56,7 +60,11 @@
     "panel": "Panel D: Tuesday, January 06, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "O'Malley", 
+      "Taranto"
+    ], 
     "cases": [
       "14-7060", 
       "12-1419", 
@@ -67,14 +75,22 @@
     "panel": "Panel E: Tuesday, January 06, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "Reyna", 
+      "Chen"
+    ], 
     "cases": [
       "13-1304"
     ], 
     "panel": "Panel F+: Tuesday, January 06, 2015, 10:00 A.M., \u00a0 Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "Reyna", 
+      "Wallach"
+    ], 
     "cases": [
       "14-5034", 
       "14-1507", 
@@ -84,7 +100,11 @@
     "panel": "Panel F: Tuesday, January 06, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "O'Malley", 
+      "Bryson", 
+      "Hughes"
+    ], 
     "cases": [
       "14-5027", 
       "14-1421", 
@@ -95,7 +115,11 @@
     "panel": "Panel G: Wednesday, January 07, 2015, 10:00 A.M., \u00a0 Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Newman", 
+      "Reyna"
+    ], 
     "cases": [
       "14-5053", 
       "14-5093", 
@@ -106,7 +130,11 @@
     "panel": "Panel H: Wednesday, January 07, 2015, 10:00 A.M., \u00a0 Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Moore", 
+      "Chen"
+    ], 
     "cases": [
       "14-5067", 
       "13-1452", 

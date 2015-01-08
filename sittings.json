@@ -145,14 +145,22 @@
     "panel": "Panel I: Wednesday, January 07, 2015, 10:00 A.M., \u00a0 Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Wallach", 
+      "Hughes"
+    ], 
     "cases": [
       "14-1136"
     ], 
     "panel": "Panel J+: Thursday, January 08, 2015, 10:00 A.M., \u00a0 Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Moore", 
+      "Wallach", 
+      "Chen"
+    ], 
     "cases": [
       "14-5076", 
       "14-7061", 
@@ -161,7 +169,11 @@
     "panel": "Panel J: Thursday, January 08, 2015, 10:00 A.M., \u00a0 Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "O'Malley", 
+      "Taranto"
+    ], 
     "cases": [
       "14-1188", 
       "14-1085", 

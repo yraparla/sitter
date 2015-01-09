@@ -184,18 +184,25 @@
     "panel": "Panel K: Thursday, January 08, 2015, 10:00 A.M., \u00a0 Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Moore", 
+      "O'Malley"
+    ], 
     "cases": [
       "14-5125", 
       "14-1490", 
       "14-1203", 
-      "14-5102", 
       "14-7071"
     ], 
     "panel": "Panel L: Friday, January 09, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Wallach", 
+      "Taranto", 
+      "Chen"
+    ], 
     "cases": [
       "14-1479", 
       "14-5058", 
@@ -207,9 +214,14 @@
     "panel": "Panel M: Friday, January 09, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Dyk", 
+      "Hughes"
+    ], 
     "cases": [
-      "15-1139"
+      "15-1139", 
+      "14-5102"
     ], 
     "panel": "Panel N: Friday, January 09, 2015, 10:00 A.M., Courtroom 203"
   }, 

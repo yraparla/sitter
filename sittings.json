@@ -1,6 +1,10 @@
 [
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "Mayer", 
+      "Reyna"
+    ], 
     "cases": [
       "14-7095", 
       "14-1631", 
@@ -12,7 +16,11 @@
     "panel": "Panel A: Monday, April 06, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Taranto", 
+      "Hughes"
+    ], 
     "cases": [
       "14-1799", 
       "15-1061", 
@@ -23,7 +31,11 @@
     "panel": "Panel B: Monday, April 06, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Clevenger", 
+      "O'Malley"
+    ], 
     "cases": [
       "14-7082", 
       "14-1668", 

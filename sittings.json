@@ -45,7 +45,11 @@
     "panel": "Panel C: Monday, April 06, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Lourie", 
+      "Gilstrap"
+    ], 
     "cases": [
       "14-7084", 
       "14-1772", 
@@ -56,7 +60,11 @@
     "panel": "Panel D: Tuesday, April 07, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Plager", 
+      "Hughes"
+    ], 
     "cases": [
       "14-1434", 
       "14-1778", 
@@ -67,7 +75,11 @@
     "panel": "Panel E: Tuesday, April 07, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Wallach", 
+      "Taranto", 
+      "Chen"
+    ], 
     "cases": [
       "14-7087", 
       "14-1492", 

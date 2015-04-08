@@ -90,7 +90,11 @@
     "panel": "Panel F: Tuesday, April 07, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Plager", 
+      "Taranto"
+    ], 
     "cases": [
       "14-1658", 
       "14-1660", 
@@ -101,9 +105,12 @@
     "panel": "Panel G: Wednesday, April 08, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Clevenger", 
+      "Schall"
+    ], 
     "cases": [
-      "14-7068", 
       "14-1618", 
       "14-1851", 
       "14-1573", 
@@ -112,7 +119,11 @@
     "panel": "Panel H: Wednesday, April 08, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "O'Malley", 
+      "Wallach", 
+      "Gilstrap"
+    ], 
     "cases": [
       "14-7059", 
       "14-3181", 

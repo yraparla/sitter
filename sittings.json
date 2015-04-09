@@ -134,7 +134,11 @@
     "panel": "Panel I: Wednesday, April 08, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Schall", 
+      "Wallach"
+    ], 
     "cases": [
       "14-1547", 
       "14-1548", 
@@ -146,7 +150,11 @@
     "panel": "Panel J: Thursday, April 09, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Chen", 
+      "Bryson", 
+      "Hughes"
+    ], 
     "cases": [
       "14-7090", 
       "14-1360", 
@@ -157,7 +165,11 @@
     "panel": "Panel K: Thursday, April 09, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "O'Malley", 
+      "Taranto"
+    ], 
     "cases": [
       "14-5132", 
       "14-1537", 

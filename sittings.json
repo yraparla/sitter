@@ -180,7 +180,11 @@
     "panel": "Panel L: Thursday, April 09, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Lourie", 
+      "O'Malley"
+    ], 
     "cases": [
       "14-1744", 
       "14-1776", 
@@ -191,7 +195,11 @@
     "panel": "Panel M: Friday, April 10, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Bryson", 
+      "Hughes"
+    ], 
     "cases": [
       "14-1476", 
       "14-1508", 
@@ -201,7 +209,11 @@
     "panel": "Panel N: Friday, April 10, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Wallach", 
+      "Mayer", 
+      "Chen"
+    ], 
     "cases": [
       "14-1411", 
       "14-1653", 
@@ -254,10 +266,17 @@
   {
     "judges": [], 
     "cases": [
-      "14-1798", 
-      "14-1801", 
+      "14-5029"
+    ], 
+    "panel": "Panel Q: Monday, May 04, 2015, 2:00 P.M., Courtroom 402"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
       "15-7015", 
       "14-1686", 
+      "14-1798", 
+      "14-1801", 
       "15-3014"
     ], 
     "panel": "Panel D: Tuesday, May 05, 2015, 10:00 A.M., Courtroom 201"
@@ -346,7 +365,6 @@
     "cases": [
       "14-5065", 
       "14-1275", 
-      "14-1816", 
       "14-3113", 
       "14-1804"
     ], 

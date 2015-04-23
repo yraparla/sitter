@@ -16,10 +16,16 @@
       "14-7088", 
       "13-1067", 
       "14-1613", 
-      "14-1853", 
       "15-3060"
     ], 
     "panel": "Panel B: Monday, May 04, 2015, 10:00 A.M., Courtroom 402"
+  }, 
+  {
+    "judges": [], 
+    "cases": [
+      "14-1853"
+    ], 
+    "panel": "Panel B+: Monday, May 04, 2015, 2:00 P.M., Courtroom 402"
   }, 
   {
     "judges": [], 
@@ -44,7 +50,7 @@
     "cases": [
       "14-5029"
     ], 
-    "panel": "Panel Q: Monday, May 04, 2015, 2:00 P.M., Courtroom 402"
+    "panel": "Panel Q: Monday, May 04, 2015, 2:00 P.M., Courtroom 203"
   }, 
   {
     "judges": [], 
@@ -72,9 +78,9 @@
   {
     "judges": [], 
     "cases": [
-      "14-1834", 
       "14-1218", 
       "15-1067", 
+      "14-1834", 
       "14-3200"
     ], 
     "panel": "Panel F: Tuesday, May 05, 2015, 10:00 A.M., Courtroom 203"
@@ -119,7 +125,6 @@
       "14-1777", 
       "13-5110", 
       "14-1174", 
-      "14-1561", 
       "15-5024"
     ], 
     "panel": "Panel J: Thursday, May 07, 2015, 10:00 A.M., Courtroom 201"

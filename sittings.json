@@ -191,7 +191,7 @@
     "cases": [
       "15-1053"
     ], 
-    "panel": "Panel A+: Monday, June 01, 2015, 10:00 A.M.,\u00a0 Courtroom 201"
+    "panel": "Panel A+: Monday, June 01, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
     "judges": [], 
@@ -200,7 +200,7 @@
       "14-1852", 
       "15-1157"
     ], 
-    "panel": "Panel A: Monday, June 01, 2015, 10:00 A.M.,\u00a0 Courtroom 201"
+    "panel": "Panel A: Monday, June 01, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
     "judges": [], 
@@ -210,7 +210,7 @@
       "14-3206", 
       "15-3074"
     ], 
-    "panel": "Panel B: Monday, June 01, 2015, 10:00 A.M.,\u00a0 Courtroom 402"
+    "panel": "Panel B: Monday, June 01, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
     "judges": [], 
@@ -220,7 +220,7 @@
       "14-1805", 
       "14-3194"
     ], 
-    "panel": "Panel C: Monday, June 01, 2015, 10:00 A.M.,\u00a0 Courtroom 203"
+    "panel": "Panel C: Monday, June 01, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
     "judges": [], 
@@ -231,7 +231,7 @@
       "14-3117", 
       "15-3055"
     ], 
-    "panel": "Panel D: Tuesday, June 02, 2015, 10:00 A.M.,\u00a0 Courtroom 201"
+    "panel": "Panel D: Tuesday, June 02, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
     "judges": [], 
@@ -242,7 +242,7 @@
       "15-3023", 
       "15-3056"
     ], 
-    "panel": "Panel E: Tuesday, June 02, 2015, 10:00 A.M.,\u00a0 Courtroom 402"
+    "panel": "Panel E: Tuesday, June 02, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
     "judges": [], 
@@ -252,7 +252,7 @@
       "14-1797", 
       "15-3015"
     ], 
-    "panel": "Panel F: Tuesday, June 02, 2015, 10:00 A.M.,\u00a0 Courtroom 203"
+    "panel": "Panel F: Tuesday, June 02, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
     "judges": [], 
@@ -262,7 +262,7 @@
       "14-1858", 
       "14-3158"
     ], 
-    "panel": "Panel G: Wednesday, June 03, 2015, 10:00 A.M.,\u00a0 Courtroom 201"
+    "panel": "Panel G: Wednesday, June 03, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
     "judges": [], 
@@ -273,7 +273,7 @@
       "15-1110", 
       "14-3173"
     ], 
-    "panel": "Panel H: Wednesday, June 03, 2015, 10:00 A.M.,\u00a0 Courtroom 402"
+    "panel": "Panel H: Wednesday, June 03, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
     "judges": [], 
@@ -283,17 +283,16 @@
       "15-1017", 
       "15-5013"
     ], 
-    "panel": "Panel I: Wednesday, June 03, 2015, 10:00 A.M.,\u00a0 Courtroom 203"
+    "panel": "Panel I: Wednesday, June 03, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
     "judges": [], 
     "cases": [
       "15-5005", 
-      "14-1854", 
       "14-1723", 
       "15-5053"
     ], 
-    "panel": "Panel J: Thursday, June 04, 2015, 10:00 A.M.,\u00a0 Courtroom 201"
+    "panel": "Panel J: Thursday, June 04, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
     "judges": [], 
@@ -304,18 +303,17 @@
       "15-1229", 
       "15-7053"
     ], 
-    "panel": "Panel K: Thursday, June 04, 2015, 10:00 A.M.,\u00a0 Courtroom 402"
+    "panel": "Panel K: Thursday, June 04, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
     "judges": [], 
     "cases": [
       "14-5127", 
       "14-1711", 
-      "14-1266", 
       "15-1145", 
       "15-7048"
     ], 
-    "panel": "Panel L: Thursday, June 04, 2015, 10:00 A.M.,\u00a0 Courtroom 203"
+    "panel": "Panel L: Thursday, June 04, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
     "judges": [], 
@@ -325,7 +323,7 @@
       "15-1075", 
       "15-7039"
     ], 
-    "panel": "Panel M: Friday, June 05, 2015, 10:00 A.M.,\u00a0 Courtroom 201"
+    "panel": "Panel M: Friday, June 05, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
     "judges": [], 
@@ -336,7 +334,7 @@
       "14-1808", 
       "15-7034"
     ], 
-    "panel": "Panel N: Friday, June 05, 2015, 10:00 A.M.,\u00a0 Courtroom 402"
+    "panel": "Panel N: Friday, June 05, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
     "judges": [], 
@@ -346,6 +344,6 @@
       "14-1483", 
       "15-7036"
     ], 
-    "panel": "Panel O: Friday, June 05, 2015, 10:00 A.M.,\u00a0 Courtroom 203"
+    "panel": "Panel O: Friday, June 05, 2015, 10:00 A.M., Courtroom 203"
   }
 ]

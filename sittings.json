@@ -43,14 +43,22 @@
     "panel": "Panel C: Monday, May 04, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Bryson", 
+      "Linn"
+    ], 
     "cases": [
       "15-1335"
     ], 
     "panel": "Panel P: Monday, May 04, 2015, 2:00 P.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Reyna", 
+      "Taranto"
+    ], 
     "cases": [
       "14-1853"
     ], 
@@ -64,7 +72,11 @@
     "panel": "Panel Q: Monday, May 04, 2015, 2:00 P.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Lourie", 
+      "Chen"
+    ], 
     "cases": [
       "15-7015", 
       "14-1686", 
@@ -75,7 +87,11 @@
     "panel": "Panel D: Tuesday, May 05, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Moore", 
+      "Clevenger", 
+      "Wallach"
+    ], 
     "cases": [
       "14-5146", 
       "14-1747", 
@@ -87,7 +103,11 @@
     "panel": "Panel E: Tuesday, May 05, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "O'Malley", 
+      "Plager", 
+      "Taranto"
+    ], 
     "cases": [
       "14-1218", 
       "15-1067", 

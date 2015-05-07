@@ -179,7 +179,11 @@
     "panel": "Panel J: Thursday, May 07, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Reyna", 
+      "Wallach"
+    ], 
     "cases": [
       "14-5135", 
       "14-1807", 
@@ -191,7 +195,11 @@
     "panel": "Panel K: Thursday, May 07, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Linn", 
+      "Hughes"
+    ], 
     "cases": [
       "14-5065", 
       "14-1275", 

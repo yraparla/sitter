@@ -68,7 +68,6 @@
     "cases": [
       "14-7108", 
       "14-1752", 
-      "14-1797", 
       "15-3015"
     ], 
     "panel": "Panel F: Tuesday, June 02, 2015, 10:00 A.M., Courtroom 203"
@@ -148,10 +147,10 @@
     "judges": [], 
     "cases": [
       "14-5142", 
-      "15-1104", 
       "15-1155", 
       "14-1808", 
-      "15-7034"
+      "15-7034", 
+      "15-1104"
     ], 
     "panel": "Panel N: Friday, June 05, 2015, 10:00 A.M., Courtroom 402"
   }, 
@@ -164,20 +163,6 @@
       "15-7036"
     ], 
     "panel": "Panel O: Friday, June 05, 2015, 10:00 A.M., Courtroom 203"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "13-1564"
-    ], 
-    "panel": "Panel Q: Friday, June 19, 2015, 10:00 A.M., Courtroom 201"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "14-5045"
-    ], 
-    "panel": "Panel P: Monday, June 29, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
     "judges": [], 

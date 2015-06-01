@@ -1,13 +1,21 @@
 [
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Lourie", 
+      "Bryson"
+    ], 
     "cases": [
       "15-1053"
     ], 
     "panel": "Panel A+: Monday, June 01, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Bryson", 
+      "Hughes"
+    ], 
     "cases": [
       "15-5015", 
       "14-1852", 
@@ -16,7 +24,11 @@
     "panel": "Panel A: Monday, June 01, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Reyna", 
+      "Clevenger", 
+      "Wallach"
+    ], 
     "cases": [
       "14-1514", 
       "14-1647", 

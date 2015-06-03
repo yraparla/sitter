@@ -59,7 +59,11 @@
     "panel": "Panel D: Tuesday, June 02, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "Taranto", 
+      "Hughes"
+    ], 
     "cases": [
       "14-1634", 
       "15-3023", 
@@ -69,14 +73,22 @@
     "panel": "Panel E: Tuesday, June 02, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Dyk", 
+      "Schall", 
+      "Taranto"
+    ], 
     "cases": [
       "15-1112"
     ], 
     "panel": "Panel E+: Tuesday, June 02, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Moore", 
+      "Bryson", 
+      "Chen"
+    ], 
     "cases": [
       "14-7108", 
       "14-1752", 

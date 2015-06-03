@@ -107,7 +107,11 @@
     "panel": "Panel G: Wednesday, June 03, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Lourie", 
+      "Chen"
+    ], 
     "cases": [
       "15-7010", 
       "14-1569", 
@@ -118,7 +122,11 @@
     "panel": "Panel H: Wednesday, June 03, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Dyk", 
+      "Wallach"
+    ], 
     "cases": [
       "14-1431", 
       "15-1257", 

@@ -136,7 +136,11 @@
     "panel": "Panel I: Wednesday, June 03, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Schall", 
+      "Hughes"
+    ], 
     "cases": [
       "15-5005", 
       "15-5053"
@@ -144,7 +148,11 @@
     "panel": "Panel J: Thursday, June 04, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Moore", 
+      "Wallach", 
+      "Taranto"
+    ], 
     "cases": [
       "14-1406", 
       "15-1012", 
@@ -155,7 +163,11 @@
     "panel": "Panel K: Thursday, June 04, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Plager", 
+      "Dyk"
+    ], 
     "cases": [
       "14-5127", 
       "14-1711", 

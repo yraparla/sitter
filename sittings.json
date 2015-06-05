@@ -177,7 +177,11 @@
     "panel": "Panel L: Thursday, June 04, 2015, 10:00 A.M., Courtroom 203"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Wallach", 
+      "Clevenger", 
+      "Taranto"
+    ], 
     "cases": [
       "14-1815", 
       "15-3007", 
@@ -187,7 +191,11 @@
     "panel": "Panel M: Friday, June 05, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Dyk", 
+      "Moore"
+    ], 
     "cases": [
       "14-5142", 
       "15-1155", 
@@ -198,7 +206,11 @@
     "panel": "Panel N: Friday, June 05, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Reyna", 
+      "Chen"
+    ], 
     "cases": [
       "15-5010", 
       "14-1544", 

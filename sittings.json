@@ -1,6 +1,10 @@
 [
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "O'Malley", 
+      "Chen"
+    ], 
     "cases": [
       "15-1148", 
       "14-5115", 

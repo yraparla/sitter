@@ -15,7 +15,11 @@
     "panel": "Panel A: Monday, July 06, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Clevenger", 
+      "Moore"
+    ], 
     "cases": [
       "15-1025", 
       "14-1389", 
@@ -27,7 +31,11 @@
     "panel": "Panel B: Tuesday, July 07, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "O'Malley", 
+      "Chen"
+    ], 
     "cases": [
       "14-7137", 
       "15-1125", 

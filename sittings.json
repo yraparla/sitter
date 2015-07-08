@@ -46,7 +46,11 @@
     "panel": "Panel C: Tuesday, July 07, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Moore", 
+      "Schall", 
+      "O'Malley"
+    ], 
     "cases": [
       "14-1845", 
       "14-1793", 
@@ -58,7 +62,11 @@
     "panel": "Panel D: Wednesday, July 08, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Wallach", 
+      "Bryson", 
+      "Hughes"
+    ], 
     "cases": [
       "15-5006", 
       "14-1646", 
@@ -70,7 +78,11 @@
     "panel": "Panel E: Wednesday, July 08, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Moore", 
+      "Bryson", 
+      "Chen"
+    ], 
     "cases": [
       "14-1797"
     ], 

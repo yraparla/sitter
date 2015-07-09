@@ -89,7 +89,11 @@
     "panel": "Panel J: Wednesday, July 08, 2015, 2:00 P.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Newman", 
+      "Wallach"
+    ], 
     "cases": [
       "15-5004", 
       "14-7106", 
@@ -101,7 +105,11 @@
     "panel": "Panel F: Thursday, July 09, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Lourie", 
+      "Schall", 
+      "Linn"
+    ], 
     "cases": [
       "15-5036", 
       "14-1657", 
@@ -113,7 +121,11 @@
     "panel": "Panel G: Thursday, July 09, 2015, 10:00 A.M., Courtroom 402"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Newman", 
+      "Linn", 
+      "O'Malley"
+    ], 
     "cases": [
       "15-1701", 
       "15-1707"

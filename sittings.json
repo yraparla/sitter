@@ -133,7 +133,11 @@
     "panel": "Panel K: Thursday, July 09, 2015, 2:00 P.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "Prost", 
+      "Lourie", 
+      "Linn"
+    ], 
     "cases": [
       "15-1056", 
       "14-7112", 
@@ -142,7 +146,11 @@
     "panel": "Panel H: Friday, July 10, 2015, 10:00 A.M., Courtroom 201"
   }, 
   {
-    "judges": [], 
+    "judges": [
+      "O'Malley", 
+      "Wallach", 
+      "Hughes"
+    ], 
     "cases": [
       "14-1701", 
       "14-1675", 

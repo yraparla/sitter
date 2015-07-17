@@ -1,5 +1,165 @@
 [
   {
+    "judges": [
+      "Newman", 
+      "O'Malley", 
+      "Chen"
+    ], 
+    "cases": [
+      "15-1148", 
+      "14-5115", 
+      "15-1143", 
+      "15-7060", 
+      "15-3035"
+    ], 
+    "panel": "Panel A: Monday, July 06, 2015, 10:00 A.M., Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "Prost", 
+      "Clevenger", 
+      "Moore"
+    ], 
+    "cases": [
+      "15-1025", 
+      "14-1389", 
+      "14-5149", 
+      "14-1266", 
+      "14-3159", 
+      "15-3038"
+    ], 
+    "panel": "Panel B: Tuesday, July 07, 2015, 10:00 A.M., Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "Newman", 
+      "O'Malley", 
+      "Chen"
+    ], 
+    "cases": [
+      "14-7137", 
+      "15-1125", 
+      "15-1041", 
+      "14-3137", 
+      "14-3146"
+    ], 
+    "panel": "Panel C: Tuesday, July 07, 2015, 10:00 A.M., Courtroom 402"
+  }, 
+  {
+    "judges": [
+      "Moore", 
+      "Schall", 
+      "O'Malley"
+    ], 
+    "cases": [
+      "14-1845", 
+      "14-1793", 
+      "14-3175", 
+      "14-3189", 
+      "14-7135", 
+      "15-3043"
+    ], 
+    "panel": "Panel D: Wednesday, July 08, 2015, 10:00 A.M., Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "Wallach", 
+      "Bryson", 
+      "Hughes"
+    ], 
+    "cases": [
+      "15-5006", 
+      "14-1646", 
+      "15-1158", 
+      "15-1197", 
+      "15-3080", 
+      "15-5042"
+    ], 
+    "panel": "Panel E: Wednesday, July 08, 2015, 10:00 A.M., Courtroom 402"
+  }, 
+  {
+    "judges": [
+      "Moore", 
+      "Bryson", 
+      "Chen"
+    ], 
+    "cases": [
+      "14-1797"
+    ], 
+    "panel": "Panel J: Wednesday, July 08, 2015, 2:00 P.M., Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "Prost", 
+      "Newman", 
+      "Wallach"
+    ], 
+    "cases": [
+      "15-5004", 
+      "14-7106", 
+      "15-1059", 
+      "12-1373", 
+      "15-3064", 
+      "15-7019"
+    ], 
+    "panel": "Panel F: Thursday, July 09, 2015, 10:00 A.M., Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "Lourie", 
+      "Schall", 
+      "Linn"
+    ], 
+    "cases": [
+      "15-5036", 
+      "14-1657", 
+      "15-1102", 
+      "15-1057", 
+      "14-7118", 
+      "15-3087"
+    ], 
+    "panel": "Panel G: Thursday, July 09, 2015, 10:00 A.M., Courtroom 402"
+  }, 
+  {
+    "judges": [
+      "Newman", 
+      "Linn", 
+      "O'Malley"
+    ], 
+    "cases": [
+      "15-1701", 
+      "15-1707"
+    ], 
+    "panel": "Panel K: Thursday, July 09, 2015, 2:00 P.M., Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "Prost", 
+      "Lourie", 
+      "Linn"
+    ], 
+    "cases": [
+      "15-1056", 
+      "14-7112", 
+      "15-3034"
+    ], 
+    "panel": "Panel H: Friday, July 10, 2015, 10:00 A.M., Courtroom 201"
+  }, 
+  {
+    "judges": [
+      "O'Malley", 
+      "Wallach", 
+      "Hughes"
+    ], 
+    "cases": [
+      "14-1701", 
+      "14-1675", 
+      "15-1163", 
+      "15-5063"
+    ], 
+    "panel": "Panel I: Friday, July 10, 2015, 10:00 A.M., Courtroom 402"
+  }, 
+  {
     "judges": [], 
     "cases": [
       "15-1039", 
@@ -94,96 +254,5 @@
       "15-7066"
     ], 
     "panel": "Panel H: Friday, August 07, 2015, 10:00 A.M., Courtroom 201"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "15-1071", 
-      "15-1190", 
-      "14-1572", 
-      "15-1169", 
-      "15-1518", 
-      "15-3100"
-    ], 
-    "panel": "Panel B: Tuesday, September 08, 2015, 10:00 A.M., Courtroom 201"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "15-1045", 
-      "14-1809", 
-      "14-3153", 
-      "15-1248", 
-      "15-5070", 
-      "15-5075"
-    ], 
-    "panel": "Panel C: Tuesday, September 08, 2015, 10:00 A.M., Courtroom 402"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "14-7097", 
-      "15-5037", 
-      "14-1855", 
-      "15-1223", 
-      "15-5027", 
-      "15-1175"
-    ], 
-    "panel": "Panel D: Wednesday, September 09, 2015, 10:00 A.M., Courtroom 201"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "15-7005", 
-      "14-1641", 
-      "15-3047", 
-      "15-1212", 
-      "15-5085", 
-      "15-3137"
-    ], 
-    "panel": "Panel E: Wednesday, September 09, 2015, 10:00 A.M., Courtroom 402"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "15-5086", 
-      "15-1218", 
-      "14-1575", 
-      "14-1771", 
-      "15-7070", 
-      "15-3134"
-    ], 
-    "panel": "Panel F: Thursday, September 10, 2015, 10:00 A.M., Courtroom 402"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "15-1170", 
-      "14-1766", 
-      "14-7131", 
-      "14-1829", 
-      "15-7072", 
-      "15-3088"
-    ], 
-    "panel": "Panel G: Thursday, September 10, 2015, 10:00 A.M., Courtroom 201"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "15-1152", 
-      "15-1162", 
-      "15-1091", 
-      "15-1113", 
-      "15-1516", 
-      "15-3117"
-    ], 
-    "panel": "Panel H: Friday, September 11, 2015, 10:00 A.M., Courtroom 201"
-  }, 
-  {
-    "judges": [], 
-    "cases": [
-      "14-5045"
-    ], 
-    "panel": "Panel A: Tuesday, September 29, 2015, 10:00 A.M., Courtroom 201"
   }
 ]

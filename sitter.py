@@ -11,7 +11,7 @@ import re
 from lxml import html
 import json
 
-f = html.parse('upcoming-oral-arguments.html')	# Parse the file
+f = html.parse('upcoming-oral-arguments')	# Parse the file
 elements = f.findall("//tr/td")					# Get the cells from the table
 
 # Initialize iterators

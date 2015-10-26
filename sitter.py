@@ -11,7 +11,7 @@ import re
 from lxml import html
 import json
 
-f = html.parse('upcoming-oral-arguments')	# Parse the file
+f = html.parse('upcoming-oral-arguments.html')	# Parse the file
 elements = f.findall("//tr/td")					# Get the cells from the table
 
 # Initialize iterators
@@ -31,13 +31,13 @@ for cell in elements:
 	else:
 
 		# If it's not a panel cell, check to see if it's a judge cell, and if it is add to the "judges" array
-		if len(panel) >= 1 and re.match(pattern, t, flags=re.IGNORECASE):	# Make sure it's not front matter 
+		if len(panel) >= 1 and re.match(pattern, t, flags=re.IGNORECASE):	# Make sure it's not front matter
 			j = re.match(pattern, t,flags=re.IGNORECASE)
-			panel[len(panel) - 1]["judges"] = [j.group(2), j.group(4), j.group(6)]	
+			panel[len(panel) - 1]["judges"] = [j.group(2), j.group(4), j.group(6)]
 
 		# If it's not a panel or judges cell, check to see if it's a case number cell, and if it is add to the "cases" array
 		elif len(panel) >= 1 and re.match("\d+-\d+",t):
-			panel[len(panel) - 1]["cases"].append(t) 
+			panel[len(panel) - 1]["cases"].append(t)
 
 # Dump the object to file
 print json.dumps(panel, indent=2)

@@ -17,4 +17,4 @@ def count_sittings(month=""):
 						else:
 							judges[judge] = judges[judge] + 1
 	return judges
-print(judges)
+print(count_sittings())
